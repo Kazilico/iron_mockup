@@ -26,7 +26,15 @@
 }
 
 .position {
-	
+	font-family: Arial;
+	font-weight:bold;
+	margin-top:15px;
+}
+
+.source {
+	color:#b2b2b2;
+	text-decoration:none;
+
 }
 .logo {
   border-style:solid;
@@ -36,14 +44,21 @@
   font-family: Verdana;
 }
 .list-background {
-  background-color:#d8d8d8;
+  background-color:#e5e5e5;
   display:block;
   margin-left:auto;
   margin-right:auto;
-  margin-top:50px;
+  padding:10px;
 }
 
-.list item {
+.list-item {
   font-weight:bold;
   color:black;
+}
+
+.stats {
+	color:#b2b2b2;
+	font-family: Arial;
+	margin-left:15px;
+	font-size:13px;
 }
