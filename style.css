@@ -90,7 +90,7 @@
   	padding:8px;
   	text-align:center;
   	padding-top:20px;
-  	padding-bottom:95px;
+  	padding-bottom:35px;
 }
 
 .lunks {
@@ -100,6 +100,16 @@
   	text-decoration:none;
   	padding:10px;
   	font-size:13px;
-  	
+}
+
+.search {
+	font-family: Arial;
+	color:#b2b2b2;
+	background-color:#e5e5e5;
+}
+.box {
+	color:white;
+	display:inline-block;
+	width:15%;
 
 }
