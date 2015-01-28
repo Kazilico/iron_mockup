@@ -62,3 +62,23 @@
 	margin-left:15px;
 	font-size:13px;
 }
+
+.breaker {
+	background-color:#808080;
+	height:5px;
+	width:100%;
+}
+
+.more {
+	background-color:#e5e5e5;
+	text-decoration:none;
+	font-family: Arial;
+	margin-left:auto;
+	font-size:16px;
+	color:black;
+	display:block;
+	padding-left:65px;
+	font-weight:bold;
+	padding-bottom:15px;
+
+}
