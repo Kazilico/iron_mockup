@@ -1,0 +1,3 @@
+This was the first assignment from the Iron Yard. [Here] (https://github.com/TIY-DC-FEE-Jan-2015/assignments/tree/master/02-html-simple-layout) is the repository for the assignment. Essentially, this assignment was meant to teach us HTML and CSS, having us recreate [this] (https://github.com/TIY-DC-FEE-Jan-2015/assignments/blob/master/02-html-simple-layout/Iron%20News.png), but with liberties with the text. 
+
+I changed the "I" logo in the upper left into an "Fe", because, you know, the periodical symbols are cool. I also used the [Lebowski ipsum] (http://www.lebowskiipsum.com/) to fill out my text because it really tied the page together. The Lebowski ipsum allows for text that is NSFW. I used that option, so be warned.
